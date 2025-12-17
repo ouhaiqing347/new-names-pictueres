@@ -1,0 +1,158 @@
+{
+  "超市": {
+    "core": [
+      {"pinyin": "shōu yín yuán", "chinese": "收银员"},
+      {"pinyin": "huò jià", "chinese": "货架"},
+      {"pinyin": "gòu wù chē", "chinese": "购物车"},
+      {"pinyin": "tī tuī chē", "chinese": "手推车"},
+      {"pinyin": "bǎo ān", "chinese": "保安"}
+    ],
+    "items": [
+      {"pinyin": "píng guǒ", "chinese": "苹果"},
+      {"pinyin": "xiāng jiāo", "chinese": "香蕉"},
+      {"pinyin": "niú nǎi", "chinese": "牛奶"},
+      {"pinyin": "miàn bāo", "chinese": "面包"},
+      {"pinyin": "jī dàn", "chinese": "鸡蛋"},
+      {"pinyin": "qiǎo kè lì", "chinese": "巧克力"},
+      {"pinyin": "bǐng gān", "chinese": "饼干"},
+      {"pinyin": "guǒ zhī", "chinese": "果汁"}
+    ],
+    "environment": [
+      {"pinyin": "chū kǒu", "chinese": "出口"},
+      {"pinyin": "rù kǒu", "chinese": "入口"},
+      {"pinyin": "zhāo pái", "chinese": "招牌"},
+      {"pinyin": "dēng", "chinese": "灯"},
+      {"pinyin": "qiáng", "chinese": "墙"}
+    ]
+  },
+  "医院": {
+    "core": [
+      {"pinyin": "yī shēng", "chinese": "医生"},
+      {"pinyin": "hù shì", "chinese": "护士"},
+      {"pinyin": "bìng rén", "chinese": "病人"},
+      {"pinyin": "bìng chuáng", "chinese": "病床"},
+      {"pinyin": "yī liáo", "chinese": "医疗"}
+    ],
+    "items": [
+      {"pinyin": "yào", "chinese": "药"},
+      {"pinyin": "yī piàn", "chinese": "药片"},
+      {"pinyin": "shè wēn jì", "chinese": "体温计"},
+      {"pinyin": "tīng zhěn qì", "chinese": "听诊器"},
+      {"pinyin": "zhēn tóu", "chinese": "针头"},
+      {"pinyin": "mián qiú", "chinese": "棉球"},
+      {"pinyin": "yào shuǐ", "chinese": "药水"},
+      {"pinyin": "chuān dān", "chinese": "穿单"}
+    ],
+    "environment": [
+      {"pinyin": "zhěn suǒ", "chinese": "诊所"},
+      {"pinyin": "guà hào chù", "chinese": "挂号处"},
+      {"pinyin": "jǐ jiù chē", "chinese": "急救车"},
+      {"pinyin": "yào xiāng", "chinese": "药箱"},
+      {"pinyin": "bìng fáng", "chinese": "病房"}
+    ]
+  },
+  "公园": {
+    "core": [
+      {"pinyin": "lǜ huà", "chinese": "绿化"},
+      {"pinyin": "huā yuán", "chinese": "花园"},
+      {"pinyin": "yóu lè", "chinese": "游乐"},
+      {"pinyin": "xiū xi", "chinese": "休息"},
+      {"pinyin": "guǎn lǐ", "chinese": "管理"}
+    ],
+    "items": [
+      {"pinyin": "huā", "chinese": "花"},
+      {"pinyin": "shù", "chinese": "树"},
+      {"pinyin": "cǎo", "chinese": "草"},
+      {"pinyin": "qiū qiān", "chinese": "秋千"},
+      {"pinyin": "huá tī", "chinese": "滑梯"},
+      {"pinyin": "mǎ", "chinese": "马"},
+      {"pinyin": "niǎo", "chinese": "鸟"},
+      {"pinyin": "hú dié", "chinese": "蝴蝶"}
+    ],
+    "environment": [
+      {"pinyin": "cháng yǐ", "chinese": "长椅"},
+      {"pinyin": "xiǎo lù", "chinese": "小路"},
+      {"pinyin": "hú", "chinese": "湖"},
+      {"pinyin": "qiáo", "chinese": "桥"},
+      {"pinyin": "shí zǐ", "chinese": "石子"}
+    ]
+  },
+  "学校": {
+    "core": [
+      {"pinyin": "lǎo shī", "chinese": "老师"},
+      {"pinyin": "xué shēng", "chinese": "学生"},
+      {"pinyin": "jiào shì", "chinese": "教室"},
+      {"pinyin": "xué xiào", "chinese": "学校"},
+      {"pinyin": "jiào xué", "chinese": "教学"}
+    ],
+    "items": [
+      {"pinyin": "zhuō zi", "chinese": "桌子"},
+      {"pinyin": "yǐ zi", "chinese": "椅子"},
+      {"pinyin": "hēi bǎn", "chinese": "黑板"},
+      {"pinyin": "fěn bǐ", "chinese": "粉笔"},
+      {"pinyin": "shū", "chinese": "书"},
+      {"pinyin": "bǐ", "chinese": "笔"},
+      {"pinyin": "zuò yè", "chinese": "作业"},
+      {"pinyin": "kè běn", "chinese": "课本"}
+    ],
+    "environment": [
+      {"pinyin": "cāo chǎng", "chinese": "操场"},
+      {"pinyin": "tú shū guǎn", "chinese": "图书馆"},
+      {"pinyin": "shí táng", "chinese": "食堂"},
+      {"pinyin": "xiào mén", "chinese": "校门"},
+      {"pinyin": "lóu", "chinese": "楼"}
+    ]
+  },
+  "动物园": {
+    "core": [
+      {"pinyin": "dòng wù", "chinese": "动物"},
+      {"pinyin": "sì yǎng", "chinese": "饲养"},
+      {"pinyin": "xùn liàn", "chinese": "训练"},
+      {"pinyin": "bǎo hù", "chinese": "保护"},
+      {"pinyin": "kē xué", "chinese": "科学"}
+    ],
+    "items": [
+      {"pinyin": "lǎo hǔ", "chinese": "老虎"},
+      {"pinyin": "shī zi", "chinese": "狮子"},
+      {"pinyin": "dà xiàng", "chinese": "大象"},
+      {"pinyin": "hóu zi", "chinese": "猴子"},
+      {"pinyin": "xióng māo", "chinese": "熊猫"},
+      {"pinyin": "cháng jǐng lù", "chinese": "长颈鹿"},
+      {"pinyin": "niǎo", "chinese": "鸟"},
+      {"pinyin": "yú", "chinese": "鱼"}
+    ],
+    "environment": [
+      {"pinyin": "lóng zi", "chinese": "笼子"},
+      {"pinyin": "chí zi", "chinese": "池子"},
+      {"pinyin": "cǎo dì", "chinese": "草地"},
+      {"pinyin": "shuǐ chí", "chinese": "水池"},
+      {"pinyin": "shí mian", "chinese": "石面"}
+    ]
+  },
+  "交通": {
+    "core": [
+      {"pinyin": "jiāo tōng", "chinese": "交通"},
+      {"pinyin": "ān quán", "chinese": "安全"},
+      {"pinyin": "guī zé", "chinese": "规则"},
+      {"pinyin": "jíng chá", "chinese": "警察"},
+      {"pinyin": "lù dēng", "chinese": "路灯"}
+    ],
+    "items": [
+      {"pinyin": "qì chē", "chinese": "汽车"},
+      {"pinyin": "zì xíng chē", "chinese": "自行车"},
+      {"pinyin": "gōng gòng qì chē", "chinese": "公共汽车"},
+      {"pinyin": "chū zū chē", "chinese": "出租车"},
+      {"pinyin": "huǒ chē", "chinese": "火车"},
+      {"pinyin": "fēi jī", "chinese": "飞机"},
+      {"pinyin": "lún chuán", "chinese": "轮船"},
+      {"pinyin": "dì tiě", "chinese": "地铁"}
+    ],
+    "environment": [
+      {"pinyin": "mǎ lù", "chinese": "马路"},
+      {"pinyin": "rén xíng dào", "chinese": "人行道"},
+      {"pinyin": "jiāo tōng dēng", "chinese": "交通灯"},
+      {"pinyin": "zhàn pái", "chinese": "站牌"},
+      {"pinyin": "qiáo liáng", "chinese": "桥梁"}
+    ]
+  }
+}
